@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function(){
     }
 
     //displaing feedback
-    feedbackDiv.style.display = "block";
+    feedbackDiv.style.display = 'block';
 
 
     if(isValid){
